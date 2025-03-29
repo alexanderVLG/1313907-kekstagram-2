@@ -1,4 +1,4 @@
-import { renderPictures } from './render';
+import { renderPictures } from './render.js';
 
 const COUNT = 10;
 const TIMEOUT_DELAY = 500;

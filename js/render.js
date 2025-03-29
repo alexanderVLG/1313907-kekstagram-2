@@ -1,4 +1,4 @@
-import { openPhotoModal } from './modal';
+import { openPhotoModal } from './modal.js';
 
 const userPictures = document.querySelector('.pictures');
 const pictureTemplate = document.querySelector('#picture').content;

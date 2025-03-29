@@ -1,5 +1,5 @@
-import { renderComments, clearComments } from './render-comments';
-import { onEscKeydown } from './utils';
+import { renderComments, clearComments } from './render-comments.js';
+import { onEscKeydown } from './utils.js';
 
 const modalWindow = document.querySelector('.big-picture');
 const closeButton = modalWindow.querySelector('.big-picture__cancel');
