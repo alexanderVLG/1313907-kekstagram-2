@@ -1,5 +1,5 @@
-import { sendData} from './api';
-import { addSuccessMessage, addErrorMessage } from './message';
+import { sendData} from './api.js';
+import { addSuccessMessage, addErrorMessage } from './message.js';
 
 const MAX_HASHTAGS = 5;
 const COMMENT_MAX_LENGTH = 140;
